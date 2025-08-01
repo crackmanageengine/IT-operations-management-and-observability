@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><AdventNetLicense>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo DDI Plus" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-10-10" Key="nJbGSnDTGRbp9NS3GAPDKfRRpy7TAfcRdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybl9nP77y1b9fRV3G1xfJdP7KRDZdVxxASK9KAQ3KbDTGVQ7Kdla" LicenseType="Registered" Name="Demo DDI Plus">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="Standard" Name="ManageEngine DDI" Type="Professional" Version="6.0"/>
+      <Component Name="Cluster">
+         <Properties Name="NumberOfSubnet" Value="20"/>
+         <Properties Name="NumberOfDHCPCluster" Value="20"/>
+         <Properties Name="NumberOfZone" Value="20"/>
+         <Properties Name="NumberOfUsers" Value="10"/>
+         <Properties Name="NumberOfDNSCluster" Value="30"/>
+      </Component>
+      <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="202308-111-0003"/>
+         <Properties Name="LicenseID" Value="302520"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+         <Properties Name="country" Value="USA"/>
+         <Properties Name="SecondaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="GenerationDate" Value="2025-07-06"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>60Ui0U5W0Wv4XdNj84XRvNvDmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXGNjYvoAowkR4NKjYGvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8Rp0W5W0VdjvsNvY8lV000U111UE0VW0WdjRvmj4sKPsL8X4vdvsNvY8l0VRv4sKLPondFORvQmKn01sRvswFORvQmKn0WvNjuFORvQmKn0WRv4sKLPpPhdFORvQmKn0W4vNQKoFORvQmKnRv4sKLPGRXGNX4oLXNj8ssvFjRp0I6jddsvN8iNgviXNXMdjdj</LicenseKey>
+</AdventNetLicense>
