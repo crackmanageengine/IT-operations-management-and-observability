@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Please do not edit this license file. Editing this file will make the license invalid.-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Netflow Analyzer" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-09-30" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSfcTdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybl9nP77y1bnnza9fTDKnPPyxTSzJRVTSNSSfVxGebKn9caGKbDGnNXyxuDcdP17zPlanuz7xPJV" LicenseType="Registered" Name="Demo Netflow Analyzer">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="OEM" Name="AdventNet ManageEngine OpManager" Type="NFADE" Version="12"/>
+      <Component Name="Topo">
+         <Properties Name="NumberOfDevices" Value="unlimited"/>
+         <Properties Name="DeviceClassName" Value="com.adventnet.me.opmanager.topodb.OpManagerObject"/>
+      </Component>
+      <Component Name="ServerFramework">
+         <Properties Name="NumberOfClients" Value="20"/>
+      </Component>
+      <Component Name="Users">
+         <Properties Name="NumberOfClients" Value="10"/>
+      </Component>
+      <Component Name="Agents">
+         <Properties Name="NumberOfAgents" Value="20"/>
+      </Component>
+      <Component Name="VoIP">
+         <Properties Name="NumberOfMonitors" Value="20"/>
+      </Component>
+      <Component Name="SLADashboard">
+         <Properties Name="Enable" Value="yes"/>
+      </Component>
+      <Component Name="VirtualDevicesMonitoring">
+         <Properties Name="NumberOfVirtualHosts" Value="30"/>
+      </Component>
+      <Component Name="Rack3DView">
+         <Properties Name="NumberOfRacks" Value="10"/>
+      </Component>
+      <Component Name="SocialITPlus">
+         <Properties Name="UserCount" Value="20"/>
+      </Component>
+      <Component Name="UCS">
+         <Properties Name="NumberOfUCS" Value="20"/>
+      </Component>
+      <Component Name="EventLogMonitoring"/>
+      <Component Name="MSExchangeMonitoring"/>
+      <Component Name="ActiveDirectoryMonitoring"/>
+      <Component Name="MSSQLMonitoring"/>
+      <Component Name="SMSNotification"/>
+      <Component Name="FailOver"/>
+      <Component Name="RootCauseAnalysis"/>
+      <Component Name="NA">
+         <Properties Name="NumberOfInterfaces" Value="30"/>
+      </Component>
+      <Component Name="BILLING"/>
+      <Component Name="NBAR_CBQOSMONITORING"/>
+      <Component Name="CAPACITYPLANNING"/>
+      <Component Name="NBA"/>
+      <Component Name="NCM">
+         <Properties Name="NumberOfDevices" Value="20"/>
+      </Component>
+      <Component Name="SwitchPortMapper">
+         <Properties Name="NumberOfPorts" Value="10"/>
+      </Component>
+      <Component Name="IPAddressManager">
+         <Properties Name="NumberOfIPs" Value="20"/>
+      </Component>
+      <Component Name="LicenseModel">
+         <Properties Name="IsUsed" Value="true"/>
+      </Component>
+      <Component Name="WLC">
+         <Properties Name="NumberOfAccessPoint" Value="10"/>
+      </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="614-444-1472"/>
+         <Properties Name="LicenseID" Value="614-444-1472"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>GvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpWiT1UTTTUT16djvsNvY8lWiT1UTTTUT16djRvmj4sKPsL8X4vdvsNvY8l014N8jpssvYYAFORvQmKnPlavKR4GvswsjLvGjMvsNvY8l0WspjFORvQmKnRviXNXMssvRGGApj01s4RjpFORvQmKnRvHHXM4RjpCY48vo0WsvY83vdFORvQmKnMPnAbnDnjnnAlpctjPApAPDnjrOtjnOMoOBbP7rAbnDnjlljb0VsvYXFRv4NjFORvQmKnAns8skLXNAvsKXP4jjrRv3OL8XfNj84XY8F84jnoMoiN8Rj48NjMlBooMiN8Rj48NjMkRj4YvR8dv384YAiN8Rj48NjMviNXCY2goMiN8Rj48NjMijl4Nv3g0WoPwFORvQmKnoPw0W4NKjPRvswsKLptjLX8Yjo01syYXrFORvQmKnvv8edVyYXr0Vs4sjhLXK4R8eFORvQmKniN8Rj48NjMsvY83vdLXK4R8esvkvLQXNgGRXjQCsXdAlo0WsRj48NjMFORvQmKnpjje0Ws4NviAFORvQmKns4NviA01s4Nv8LPFORvQmKnsRvsw0Ws4Nv8LPFORvQmKnyRjvvmXRfRv3Rvo4YvJQORviXNXMHOIQGjHj4IRviXNXmHjIvmI4vN4Nv3GXImjYvmXnssXLPvY83vdGv48m8LNKsvY83vdFORvQmKnjHjtMgOgdAfnW1RviXNXMHOsvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>
