@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+   <!--Information-->
+   <!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo OpManager" EmailID="crackmanageengine@gmail.com " ExpiryDate="2025-09-20" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TSfcSdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7yblTfRbGaaTTJN99a7xnlcyXfyTpuRX7aTPAJVzG1zl3fpPGKucV" LicenseType="Registered" Name="Demo OpManager ">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="OEM" Name="AdventNet ManageEngine OpManager" Type="Enterprise" Version="12.8"/>
+      <Component Name="Elements">
+         <Properties Name="NumberOfElements" Value="20"/>
+      </Component>
+      <Component Name="Topo">
+         <Properties Name="NumberOfDevices" Value="10"/>
+         <Properties Name="DeviceClassName" Value="com.adventnet.me.opmanager.topodb.OpManagerObject"/>
+      </Component>
+      <Component Name="ServerFramework">
+         <Properties Name="NumberOfClients" Value="20"/>
+      </Component>
+      <Component Name="Users">
+         <Properties Name="NumberOfClients" Value="10"/>
+         <Properties Name="NumberOfUsers" Value="20"/>
+      </Component>
+      <Component Name="Agents">
+         <Properties Name="NumberOfAgents" Value="20"/>
+      </Component>
+      <Component Name="VoIP">
+         <Properties Name="NumberOfMonitors" Value="20"/>
+      </Component>
+      <Component Name="SLADashboard">
+         <Properties Name="Enable" Value="yes"/>
+      </Component>
+      <Component Name="VirtualDevicesMonitoring">
+         <Properties Name="NumberOfVirtualHosts" Value="20"/>
+      </Component>
+      <Component Name="Rack3DView">
+         <Properties Name="NumberOfRacks" Value="10"/>
+      </Component>
+      <Component Name="SocialITPlus">
+         <Properties Name="UserCount" Value="20"/>
+      </Component>
+      <Component Name="UCS">
+         <Properties Name="NumberOfUCS" Value="20"/>
+      </Component>
+      <Component Name="WirelessMonitoring">
+         <Properties Name="NumberOfAccessPoints" Value="10"/>
+      </Component>
+      <Component Name="EventLogMonitoring"/>
+      <Component Name="MSExchangeMonitoring"/>
+      <Component Name="ActiveDirectoryMonitoring"/>
+      <Component Name="MSSQLMonitoring"/>
+      <Component Name="SMSNotification"/>
+      <Component Name="FailOver"/>
+      <Component Name="RootCauseAnalysis"/>
+      <Component Name="NA">
+         <Properties Name="NumberOfInterfaces" Value="30"/>
+      </Component>
+      <Component Name="BILLING"/>
+      <Component Name="NBAR_CBQOSMONITORING"/>
+      <Component Name="CAPACITYPLANNING"/>
+      <Component Name="NBA"/>
+      <Component Name="NCM">
+         <Properties Name="NumberOfDevices" Value="20"/>
+      </Component>
+      <Component Name="CStore"/>
+		 <Properties Name="NumberOfCStores" Value="30"/>
+      <Component Name="Storage">
+         <Properties Name="NumberOfDisks" Value="10"/>
+      </Component>
+      <Component Name="FWA">
+         <Properties Name="NumberOfFirewalls" Value="20"/>
+      </Component>
+      <Component Name="SwitchPortMapper">
+         <Properties Name="NumberOfPorts" Value="30"/>
+      </Component>
+      <Component Name="IPAddressManager">
+         <Properties Name="NumberOfIPs" Value="20"/>
+      </Component>
+      <Component Name="WLC">
+         <Properties Name="NumberOfAccessPoint" Value="30"/>
+      </Component>
+	  <Component Name="DPIEngine">
+         <Properties Name="NumberOfDPIEngines" Value="10"/>
+      </Component>
+	  <Component Name="LicenseModel">
+         <Properties Name="IsUsed" Value="true"/>
+      </Component>
+	  <Component Name="ApplicationControl">
+         <Properties Name="Edition" Value="Enterprise"/>
+      </Component>
+	  <Component Name="LicenseDetails">
+         <Properties Name="CustomerID" Value="66666666"/>
+         <Properties Name="LicenseID" Value="99999999"/>
+         <Properties Name="PrimaryContact" Value="crackmanageengine@gmail.com"/>
+         <Properties Name="licenseusertype" Value="Registered"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>GvRv4s8ivrvHk4RvsKvsNvY8LmjYIL8XmiavN8iNvviXNXmyYXRY4YX4NjPkRXm8RpZZZZZZZZdjvsNvY8l66666666djRvmj4sKPsL8X4vdvsNvY8lvs8RHRv4NgNj848GgLjR4NjPNj84XY8LHHAvKR4GvswsjLvGjMvsNvY8l01svN8iNgjpdFORvQmKnvN8iNgjpd0V4N8jpssvYYAFORvQmKnPla0WspjFORvQmKnRviXNXMssvRGGApj0Vs4RjpFORvQmKnRvHHXM4RjpCY48vo0WsLLXvvR8fFORvQmKnAaf01sys8dFORvQmKnviXRj4o0VsvRj4oPFORvQmKnvRj4oP0WsvY83vdFORvQmKnMPnAbnDnjnnAlpctjPApAPDnjrOtjnOMoOBbP7rAbnDnjlljb0VsvYXFRv4NjFORvQmKnAns8skLXNAvsKXP4jjrRv3OL8XfNj84XY8F84jnoMoiN8Rj48NjMlBooMiN8Rj48NjMkRj4YvR8dv384YAiN8Rj48NjMviNXCY2goMiN8Rj48NjMijl4Nv3g01s4N8jpssvYYAFORvQmKniN8Rj48NjMssvLvR8a0WoPwFORvQmKnoPw0W4NKjPRvswsKLptjLX8Yjo01syYXrFORvQmKnvv8edVyYXr0Ws4sjhLXK4R8eFORvQmKniN8Rj48NjMsvY83vdLXK4R8esvkvLQXNgGRXjQCsXdAlo0WsRj48NjMFORvQmKnpjje0Ws4NviAFORvQmKns4NviA0WsRvswFORvQmKn01s4Nv8LPFORvQmKnsRvsw0Ws4Nv8LPFORvQmKnyRjvvmXRfRv3Rvo4YvJQORviXNXMHOIQGjHj4IRviXNXmHjIvmI4vN4Nv3GXImjYvmXnssXLPvY83vd01svY83vdFORvQmKnjHjt0Ws4NvmvLgFORvQmKns4NvmvLgMgOvs8RHRv4NgEIW1RviXNXMHOsvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>
