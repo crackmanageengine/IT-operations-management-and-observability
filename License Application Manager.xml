@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><License>
+	<!--Information-->
+	<!--More details : Contact Email:  crackmanageengine@gmail.com-->
+   <Users>
+      <UserInfo ACNTRL="NO" CompanyName="Demo Application Manager" EmailID="crackmanageengine@gmail.com" ExpiryDate="2025-08-31" Key="nJbGSnDTGRbp9NS3GAPDKfRQpy7TQfJTdP3VSySzlp17a7xnlcyXfNSnd9191NTcdp7VQnxfJpf7ybl9nP77y1acJc99znxPlAaDQaSnndGVQTSzdpbp9PK9dN7yxuDQncy7zzlDdpaG1bad9cXGxPbcnJSTAzlp" LicenseType="Registered" Name="Demo Application Manager">
+         <ID>ID</ID>
+      </UserInfo>
+   </Users>
+   <LicenseeDetails ID="ID">
+      <Product Category="EnterpriseEdition" Name="AdventNet ManageEngine Applications Manager" Type="Professional" Version="17"/>
+      <Component Name="Topo">
+         <Properties Name="NumberOfMO" Value="20"/>
+      </Component>
+	  <Component Name="Users">
+         <Properties Name="NumberOfUsers" Value="10"/>
+		 <Properties Name="NumberOfMonitors" Value="20"/>
+		 <Properties Name="NumberOfClients" Value="30"/>
+      </Component>
+	  <Component Name="NetworkDevices">
+         <Properties Name="NumberOfDevices" Value="10"/>
+		 <Properties Name="NumberOfNetworkDevices" Value="20"/>
+		 <Properties Name="NumberOfClients" Value="30"/>
+      </Component>
+	  <Component Name="Provisioning">
+         <Properties Name="Provisioning" Value="true"/>
+      </Component>
+      <Component Name="ServerFramework">
+         <Properties Name="NumberOfClients" Value="10"/>
+         <Properties Name="BEFailOver" Value="true"/>
+      </Component>
+      <Component Name="ApplicationManagement"/>
+      <Component Name="AppServerManagement"/>
+      <Component Name="WLServers">
+         <Properties Name="NumberOfWLS" Value="20"/>
+      </Component>
+      <Component Name="ApplicationMonitoring"/>
+      <Component Name="Syslog"/>
+	  <Component Name="SAP">
+		 <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="20"/>
+      </Component>
+	  <Component Name="SAP-CCMS">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="10"/>
+      </Component>
+	  <Component Name="iSeries">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="20"/>
+      </Component>
+	  <Component Name="iSeries_admin">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="30"/>
+      </Component>
+	  <Component Name="EUM">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="20"/>
+      </Component>
+	  <Component Name="APM-Insight-Java">
+		 <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="10"/>
+      </Component>
+	  <Component Name="APM-Insight-PHP">
+		 <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="30"/>
+      </Component>
+	  <Component Name="APM-Insight-Nodejs">
+		 <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="20"/>
+      </Component>
+	  <Component Name="APM-Insight-Python">
+		 <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="30"/>
+      </Component>
+	  <Component Name="APM-Insight-Dotnet">
+		 <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="20"/>
+      </Component>
+	  <Component Name="J2EEWebTransaction">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="20"/>
+      </Component>
+	  <Component Name="OracleEBS">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="30"/>
+      </Component>
+	  <Component Name="WebSphereMQ">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="20"/>
+      </Component>
+	  <Component Name="OfficeSharePoint">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="30"/>
+      </Component>
+	  <Component Name="Siebel">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="40"/>
+		 <Properties Name="Expiry" Value="never"/>
+      </Component>
+	  <Component Name="Anomaly">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="50"/>
+      </Component>
+	  <Component Name="RBM">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="20"/>
+      </Component>
+	  <Component Name="SMS Toolkit">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="30"/>
+      </Component>
+	  <Component Name="NetworkMonitoringConnector">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="20"/>
+      </Component>
+	  <Component Name="OpStorConnector">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="10"/>
+      </Component>
+	  <Component Name="VMWare">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="20"/>
+      </Component>
+	  <Component Name="Hyper-V">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="50"/>
+      </Component>
+	  <Component Name="Amazon">
+         <Properties Name="Enabled" Value="true"/>
+		 <Properties Name="NumberOfClients" Value="30"/>
+      </Component>
+	  <Component Name="DISCOVERY">
+         <Properties Name="WEBLOGIC-server" Value="unlimited"/>
+         <Properties Name="WLS-Cluster" Value="unlimited"/>
+         <Properties Name="Tomcat-server" Value="unlimited"/>
+         <Properties Name="WebSphere-server" Value="unlimited"/>
+         <Properties Name="ORACLE-DB-server" Value="unlimited"/>
+         <Properties Name="MYSQL-DB-server" Value="unlimited"/>
+         <Properties Name="Port-Test" Value="unlimited"/>
+         <Properties Name="RMI" Value="unlimited"/>
+         <Properties Name="Custom-Application" Value="unlimited"/>
+         <Properties Name="HAI" Value="unlimited"/>
+         <Properties Name="JMX1.2-MX4J-RMI" Value="unlimited"/>
+         <Properties Name="UrlMonitor" Value="unlimited"/>
+         <Properties Name="UrlSeq" Value="unlimited"/>
+         <Properties Name="Apache-server" Value="unlimited"/>
+         <Properties Name="IIS-server" Value="unlimited"/>
+         <Properties Name="WEB-server" Value="unlimited"/>
+         <Properties Name="Network" Value="unlimited"/>
+         <Properties Name="SNMP" Value="unlimited"/>
+         <Properties Name="WindowsNT" Value="unlimited"/>
+         <Properties Name="Linux" Value="unlimited"/>
+         <Properties Name="WindowsNT_Server" Value="unlimited"/>
+         <Properties Name="Windows95" Value="unlimited"/>
+         <Properties Name="SUN" Value="unlimited"/>
+         <Properties Name="SUN PC" Value="unlimited"/>
+         <Properties Name="Windows 2000" Value="unlimited"/>
+         <Properties Name="DB2-server" Value="unlimited"/>
+         <Properties Name="MSSQL-DB-server" Value="unlimited"/>
+         <Properties Name="Nodes" Value="unlimited"/>
+      </Component>
+   </LicenseeDetails>
+   <LicenseKey>Gv48m8LNKsvGjnGv48m8LNKRv3RvsUbdUlBooMGv48m8LNKRv3RvsUWbdGv48m8LNK000WssvjGN8aGv48m8LNKPpsnwoGv48m8LNKnwoGv48m8LNK5ZsvjGN8aGv48m8LNKRv3Rvo7tnsvjGN8aGv48m8LNK2KN8lGv48m8LNKtnsvjGN8aGv48m8LNKpMnoGv48m8LNKyRjv4vnGv48m8LNKRv3RvsUbgaGv48m8LNKRv3RvsUojjGv48m8LNKRv3RvsUvCYXHAGv48m8LNKqvoLRwGv48m8LNKRj48NjMLRwGv48m8LNKjMrUSTxMUWI1xMSGv48m8LNKjAhGv48m8LNKNj84XY8LHHAUmj4sKPGv48m8LNKjMrGv48m8LNK4svtU4RjpGv48m8LNKRv3RvsUbdUlBocMGv48m8LNKRv3RvsUbdUglPArOGv48m8LNKRv3RvsUvRvCHoQvaGv48m8LNKRv3RvsU4XYmjtGv48m8LNKRv4sKLPUolaGv48m8LNKRv3RvsUPjDOlbgacrgeOPojd0Vs4Nv8LPFORvQmKnvKR4GvLQXNgNj9XmA05s4Nv8LPFORvQmKnvKR4GvLQXNgeURvHkh0Ws4Nv8LPFORvQmKnvKR4GvLQXNgvRXaMe01s4Nv8LPFORvQmKnvKR4GvLQXNgRj4YvNNjPRj4oHO0Ws4Nv8LPFORvQmKnvKR4GvLQXNgRj4YvNNjPiN8Rj48NjMyRjv4vn0Vs4Nv8LPFORvQmKnvKR4GvLQXNg48yLjjtsoMo0Ws4Nv8LPFORvQmKnvKR4GvLQXNgMbr05s4Nv8LPFORvQmKnvKR4GvLQXNgkLXmjNARv3vNkR8H2g0Ts4Nv8LPFORvQmKnvKR4GvLQXNgLvQv8o0Vs4Nv8LPFORvQmKnvKR4GvLQXNg4N8jpvRXCovY8FFO0Ws4Nv8LPFORvQmKnvKR4GvLQXNgBMvRvCHoQva0Vs4Nv8LPFORvQmKnvKR4GvLQXNgobgvLYXRO0Ws4Nv8LPFORvQmKnvKR4GvLQXNgNj84YXsNXRtQvaggWS0Ws4Nv8LPFORvQmKnvKR4GvLQXNg4vN4jdU4Ci8sNjUMpA0Vs4Nv8LPFORvQmKnvKR4GvLQXNgNjC4kpU4Ci8sNjUMpA0Ws4Nv8LPFORvQmKnvKR4GvLQXNgsJvGjnU4Ci8sNjUMpA0Vs4Nv8LPFORvQmKnvKR4GvLQXNgphpU4Ci8sNjUMpA01s4Nv8LPFORvQmKnvKR4GvLQXNgX3XSU4Ci8sNjUMpA0Ws4Nv8LPFORvQmKnvKR4GvLQXNgMwg0Vs4Nv8LPFORvQmKnvKR4GvLQXNgN8mGX7sv8Rvo80Ws4Nv8LPFORvQmKnvKR4GvLQXNgsv8Rvo801s4Nv8LPFORvQmKnvKR4GvLQXNgoMPPUpAo0Ws4Nv8LPFORvQmKnvKR4GvLQXNgpAoijLskoiN8Rj48NjMNj84XY8LHHA0WolaFORvQmKnsRv3Rvola4NvmviXNXMRv3RvoHHA4NvmviXNXMNj84XY8LHHAvKR4Rv3OL8Xfgb01s4Nv8LPFORvQmKnyRjvvmXRfRv3RvovKR4iN8Nj8s83jRpiN8Nj8s83jRp0Vs4Nv8LPFORvQmKn0WsvY83vdyRjv4vnFORvQmKn01svY83vdFORvQmKnsvY83vdyRjv4vn0Vs4Nv8LPFORvQmKn0WsRj48NjMFORvQmKn01sRvswFORvQmKnsRvsw0WOMFORvQmKnjHjtNj848Ggvs8RHRv4NgLXNj8ssvFjRpi1RviXNXMssNj84XY8LHHAsvN8iNgviXNXMs4vn4Nv3GAdjdj</LicenseKey>
+</License>
